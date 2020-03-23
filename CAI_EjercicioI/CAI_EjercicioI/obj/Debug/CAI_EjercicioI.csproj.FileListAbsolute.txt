@@ -1,0 +1,6 @@
+C:\Users\Emanuel\Desktop\CAI\Ejercicios2020\CAI_EjercicioI\CAI_EjercicioI\bin\Debug\CAI_EjercicioI.exe.config
+C:\Users\Emanuel\Desktop\CAI\Ejercicios2020\CAI_EjercicioI\CAI_EjercicioI\bin\Debug\CAI_EjercicioI.exe
+C:\Users\Emanuel\Desktop\CAI\Ejercicios2020\CAI_EjercicioI\CAI_EjercicioI\bin\Debug\CAI_EjercicioI.pdb
+C:\Users\Emanuel\Desktop\CAI\Ejercicios2020\CAI_EjercicioI\CAI_EjercicioI\obj\Debug\CAI_EjercicioI.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Desktop\CAI\Ejercicios2020\CAI_EjercicioI\CAI_EjercicioI\obj\Debug\CAI_EjercicioI.exe
+C:\Users\Emanuel\Desktop\CAI\Ejercicios2020\CAI_EjercicioI\CAI_EjercicioI\obj\Debug\CAI_EjercicioI.pdb
